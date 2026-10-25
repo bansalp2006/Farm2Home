@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🌾 Farm2Home
 
 ### Connecting Gujarat's Farmers Directly with Consumers
@@ -96,6 +95,5 @@ file.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Designed with the goal of bringing farms closer to homes. 🌱**
-:::
+
